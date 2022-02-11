@@ -1,0 +1,19 @@
+{
+	"version": 3,
+	"software": {
+		"animate": "",
+		"python": "/Users/gabriel/miniconda3/envs/wot/bin/python",
+		"sonar": ""
+	},
+	"game": {
+		"folder": "",
+		"version": "1.15.0.3"
+	},
+	"info": {
+		"id": "replaystimeline",
+		"author": "gabouchet",
+		"name": "Replays Timeline",
+		"description": "Timeline to control replays",
+		"version": "0.0.1"
+	}
+}

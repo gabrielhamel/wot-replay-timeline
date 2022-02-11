@@ -1,0 +1,24 @@
+# Visual Studio Code temp
+/*.vscode
+
+# builded flash binaries
+/as3/*/*.swf
+
+# AS3 libs
+/as3/*/*.swc
+
+# compiled python bytecode
+/python/*/*.pyc
+
+# wot package
+/build/*.wotmod
+/build/*.zip
+
+# sonar cloud
+.scannerwork
+
+# batch files
+/*.cmd
+
+# Macos files
+.DS_Store
